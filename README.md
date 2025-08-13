@@ -12,5 +12,7 @@ Finally, I test the algorithm on USPS digit recogniction data. The dataset consi
 1. **Chapman Siu** (2023). *Online GentleAdaBoost – Technical Report*. University of Technology Sydney.  
    [Read the full report on arXiv](https://arxiv.org/pdf/2308.14004)
 
-2. **Jerome Friedman, Trevor Hastie, Robert Tibshirani** (2000). *Additive Logistic Regression: A Statistical View of Boosting*. Annals of Statistics, 28(2), 337–407.  
-   [View the paper on Project Euclid](https://projecteuclid.org/euclid.aos/1016218223)
+2. **Trevor Hastie, Robert Tibshirani, Jerome Friedman** (2001). *The Elements of Statistical Learning: Data Mining, Inference, and Prediction*. Springer. Chapter 10: Boosting and Additive Trees.  
+   [View the book on Springer](https://link.springer.com/book/10.1007/978-0-387-84858-7)  
+   [Read Chapter 10 via ResearchGate](https://www.researchgate.net/profile/Trevor-Hastie/publication/226862591_Boosting_and_Additive_Trees/links/0c960521b946fa03bd000000/Boosting-and-Additive-Trees.pdf)
+
